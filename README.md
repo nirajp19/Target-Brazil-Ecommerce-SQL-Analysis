@@ -48,7 +48,7 @@ The dataset contains approximately **100,000 orders** and multiple related table
 
 The project uses a relational database consisting of multiple connected tables.
 
-![Database Schema](images/database-schema.png)
+![Database Schema](database-schema.png)
 
 The relationships between customers, orders, products, payments, sellers, and geographic information allow the analysis to combine data from multiple business areas.
 
@@ -90,7 +90,7 @@ The project uses SQL to perform:
 - Geographic analysis
 - Payment analysis
 
-![SQL Analysis](images/sql-analysis.png)
+![SQL Analysis](sql-analysis.png)
 
 The analysis combines information from multiple related tables to answer business questions rather than treating the dataset as a single flat table.
 
@@ -100,7 +100,7 @@ The analysis combines information from multiple related tables to answer busines
 
 The SQL queries were used to analyze different aspects of the e-commerce business, including sales, payment behavior, customers, products, geography, sellers, and shipping.
 
-![Business Analysis](images/business-analysis.png)
+![Business Analysis](business-analysis.png)
 
 ### Key Areas Analyzed
 
@@ -206,7 +206,7 @@ Product-level and category-level analysis provides visibility into demand and pr
 
 Payment behavior, seller distribution and shipping costs provide additional insight into the operational side of the marketplace.
 
-![Key Insights](images/key-insights.png)
+![Key Insights](key-insights.png)
 
 ---
 
